@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeit2009
--I am great in python
--I am learning various programing languages
+- I am good in python
+- I am learning various programing languages
 
 
 <!---
