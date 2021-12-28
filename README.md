@@ -1,4 +1,4 @@
-## I am a student, Aand programming as a hobby
+## I am a student, And programming as a hobby
 - 👋 Hi, I’m @codeit2009
 - 🌱 I’m currently learning everything 🤣
 ### Languages and Tools:
